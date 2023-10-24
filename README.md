@@ -1,4 +1,4 @@
-Superstore SQL Queries
+Superstore SQL Queries 
 This repository contains SQL code that performs various queries on a sample data set of a superstore. The data set has information about the orders, customers, products, sales, and profits of the superstore in different regions and segments. The SQL code demonstrates how to:
 
 View the entire table or select specific columns from the table
